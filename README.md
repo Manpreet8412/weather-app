@@ -1,10 +1,25 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Name : - Weather app
 
-## Available Scripts
+About Project: -
 
-![image](https://user-images.githubusercontent.com/87047386/184335343-e8859fe0-dc93-4e21-b190-75d007ec3b04.png)
+This project provide you live weather information of any city in the world . It provides accurate information  high/low temprature and wind speed . 
+
+OBJECTIVE:-
+
+The main objective of the project is to create weather app using React JS ,CSS language to provide accurate information of live weather.
+
+
+
+
+
+![CB58F600-8B91-4D26-B689-8D7F0923749E (1)](https://user-images.githubusercontent.com/87047386/184338510-0c291fe0-d905-4555-8e9f-e5283c3ba644.jpeg)
+
+
+
+![0102B133-F79C-467E-8F2A-08D90BE19D54](https://user-images.githubusercontent.com/87047386/184338757-f8ebad82-2e51-4461-9b76-62652e078e4a.jpeg)
 
 
 
